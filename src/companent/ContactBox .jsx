@@ -1,4 +1,7 @@
 import React from 'react'
+import avatar from '../assets/images/avatar.jpg'
+import avatar2 from '../assets/images/avatar2.jpg'
+import avatar3 from '../assets/images/avatar3.jpg'
 
 const ContactBox  = () => {
   return (
@@ -11,6 +14,8 @@ const ContactBox  = () => {
       {/**About Me */}
       <div className='col'>
         <div className='about-info'>
+
+          
             <h3>Json MomoA</h3>
             <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s
             </p>

@@ -16,9 +16,11 @@ const ProjectsBox = () => {
 
         <div className='project-box'>
         
-        <div className='image'>
+        <div className='icon'>
           <img src={thing1} alt="avatar" />
         </div>
+        <br></br>
+        <br></br>
       
           <h3>Pen</h3>
           <label>For write</label>
@@ -26,42 +28,52 @@ const ProjectsBox = () => {
 
 
         <div className='project-box'>
-        <div className='image'>
+        <div className='icon'>
           <img src={thing2} alt="avatar" />
         </div>
+        <br></br>
+        <br></br>
           <h3>NoteBook</h3>
           <label>For Note</label>
         </div>
 
 
         <div className='project-box'>
-       <div className='image'>
+       <div className='icon'>
           <img src={thing3} alt="avatar" />
         </div>
+        <br></br>
+        <br></br>
           <h3>rulur</h3>
           <label>For Calculate</label>
         </div>
 
         <div className='project-box'>
-        <div className='image'>
+        <div className='icon'>
           <img src={thing4} alt="avatar" />
         </div>
+        <br></br>
+        <br></br>
           <h3>Gule</h3>
           <label>For Adtrast</label>
         </div>
 
         <div className='project-box'>
-        <div className='image'>
+        <div className='icon'>
           <img src={thing5} alt="avatar" />
         </div>
+        <br></br>
+        <br></br>
           <h3>Doucument</h3>
           <label>For keepfile</label>
         </div>
 
         <div className='project-box'>
-        <div className='image'>
+        <div className='icon'>
           <img src={thing6} alt="avatar" />
         </div>
+        <br></br>
+        <br></br>
           <h3>Printter</h3>
           <label>For print</label>
         </div>
